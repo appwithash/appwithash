@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋 
+
+#### ✨ I am an iOS Developer & Freelancer.
+#### ✨ Create custom UI using SwiftUI(take UI challenge from drrrible).
+#### ✨ UI / UX Enthusiast.
+#### ✨ I share content on iOS developement of instagram [ashutosh_iosdev](https://www.instagram.com/ashutosh_iosdev).
+#### ✨ You can reach me 👇.
 
 <!--
 **ashutoshpandey28/ashutoshpandey28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
