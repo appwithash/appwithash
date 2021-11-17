@@ -4,9 +4,9 @@
 #### ✨ Create custom UI using SwiftUI(take UI challenge from drrrible).
 #### ✨ UI / UX Designer.
 #### ✨ Open to work on project.
-#### ✨ I share content on iOS developement of instagram [ashutosh_iosdev](https://www.instagram.com/ashutosh_iosdev).
+#### ✨ I share content on iOS developement of instagram [appwithashutosh](https://www.instagram.com/appwithashutosh).
 #### ✨ You can reach me 👇.
-[<img src="https://github.com/ashutoshpandey28/ashutoshpandey28/blob/main/linkedin-logo.png" width=100/>](http://linkedin.com/in/ashutosh-pandey-388b361a6) [<img src="https://github.com/ashutoshpandey28/ashutoshpandey28/blob/main/instagram_logo.png" width=100/>](https://www.instagram.com/ashutosh_iosdev)
+[<img src="https://github.com/ashutoshpandey28/ashutoshpandey28/blob/main/linkedin-logo.png" width=100/>](http://linkedin.com/in/ashutosh-pandey-388b361a6) [<img src="https://github.com/ashutoshpandey28/ashutoshpandey28/blob/main/instagram_logo.png" width=100/>](https://www.instagram.com/appwithashutosh)
 <!--
 **ashutoshpandey28/ashutoshpandey28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
