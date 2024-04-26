@@ -2,7 +2,7 @@
 
 #### ✨ I am an iOS Developer & Freelancer.
 #### ✨ Top Rated Freelancer on Upwork.
-#### ✨ Create custom UI using SwiftUI(take UI challenge from drrrible).
+#### ✨ Create custom UI using SwiftUI & UIKit(take UI challenge from drrrible).
 #### ✨ UI / UX Designer.
 #### ✨ Open to work on project.
 #### ✨ I share content on iOS developement of instagram [appwithash](https://www.instagram.com/appwithash).
